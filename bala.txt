@@ -1,5 +1,7 @@
  this is general file
 
 
-i am in dev branch
+i am in master branch
+
+i am dev branch
  i am pushing 
